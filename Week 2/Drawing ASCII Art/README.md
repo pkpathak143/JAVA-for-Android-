@@ -1,4 +1,4 @@
-## Programming Assignment: Drawing ASCII Art
+# Programming Assignment: Drawing ASCII Art
 
 **For this assignment you will submit the file ```Logic.java```** 
 
@@ -6,4 +6,4 @@
  
 **Here is the code for this assignment, you can use for a _Reference_.**
 
-### Thank you
+## Thank you
