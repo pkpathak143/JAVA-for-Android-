@@ -5,4 +5,6 @@ Here i have added the file Logic.java from the Programming Assignment on the wee
 
 If you want to visit the course just click on this link:
 
-"[https://coursera.org/share/744eb1f218713186fb68f5d8119b33d2]"
+[https://coursera.org/share/744eb1f218713186fb68f5d8119b33d2]
+
+## Thank-You!
