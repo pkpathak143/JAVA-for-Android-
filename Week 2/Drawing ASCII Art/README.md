@@ -1,9 +1,9 @@
-#Programming Assignment: Drawing ASCII Art
+## Programming Assignment: Drawing ASCII Art
 
-For this assignment you will submit the file Logic.java. 
+**For this assignment you will submit the file Logic.java. 
 
-Only submit Logic.java
+**Only submit ``` Logic.java ```
+ 
+**Here is the code for this assignment, you can use for a reference.
 
-Here is the code for this assignment, you can use for a reference.
-
-Thank you
+### Thank you
