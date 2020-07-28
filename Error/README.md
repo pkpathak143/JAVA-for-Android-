@@ -1,6 +1,6 @@
 ## Some Common error you may face in between the Assignments Submission
 
-
+![GitHub Logo](/Error/Error.PNG)
 
 **To resolve this you just need to follow some steps:** 
 
