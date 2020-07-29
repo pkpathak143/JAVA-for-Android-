@@ -5,6 +5,6 @@
 
 **If you want to visit the course just click on this:**
 
-**[JAVA for Android](https://coursera.org/share/744eb1f218713186fb68f5d8119b33d2)**
+# [JAVA for Android](https://coursera.org/share/744eb1f218713186fb68f5d8119b33d2)
 
 ## Thank-You!
