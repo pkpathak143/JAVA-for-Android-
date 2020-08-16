@@ -1,7 +1,7 @@
 # JAVA-for-Android-
 **In this Repo i have added all the task codes of the Coursera's course Java for Android.**
 
-**Here i have added the file ```Logic.java```(week 1 and 2) also ```Gate.java```(for week 3) from the Programming Assignment on the weekly basis**
+**Here i have added the file ```Logic.java```(week 1 and 2) and rest zip files and .java files also from the Programming Assignment on the weekly basis**
 
 **If you want to visit the course just click on this:**
 
