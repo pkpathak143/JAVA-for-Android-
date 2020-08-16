@@ -1,4 +1,5 @@
-# Programming Assignment: Building your own class pt 2
+# Programming Assignment: Inheritance and Polymorphism
+
 
 **For this assignment you will submit the file ```answer-files.zip```** 
 
